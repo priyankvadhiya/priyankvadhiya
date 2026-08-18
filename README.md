@@ -2,11 +2,11 @@
 
 ## Senior Android Software Engineer
 
-I'm a passionate Android developer with 7+ years of experience building scalable, high-performance native Android applications using Kotlin and modern Android technologies.
+I'm a passionate Android developer with 8+ years of experience building scalable, high-performance native Android applications using Kotlin and modern Android technologies.
 
 ### 🚀 About Me
 
-- 📱 7+ Years of Android Development Experience
+- 📱 8+ Years of Android Development Experience
 - 💚 Kotlin Enthusiast
 - 🎨 Jetpack Compose Developer
 - 🏗️ Clean Architecture & MVVM
